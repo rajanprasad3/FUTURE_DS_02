@@ -1,2 +1,10 @@
 # FUTURE_DS_02
-I have completed my task 2
+│
+├── notebook/
+│   └── Task2.ipynb
+│
+├── data/
+│   └──Telco_Customer_Churn.csv & Cleaned_Telco_Customer_Churn.csv
+│
+└── README.md
+
